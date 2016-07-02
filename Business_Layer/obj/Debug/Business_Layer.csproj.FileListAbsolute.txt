@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2010\Projects\FileSharing_FTP\Business_Layer\bin\Debug\Business_Layer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\FileSharing_FTP\Business_Layer\bin\Debug\Business_Layer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\FileSharing_FTP\Business_Layer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\FileSharing_FTP\Business_Layer\obj\Debug\Business_Layer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\FileSharing_FTP\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\Aakash\Downloads\P2P FT\C#\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\Aakash\Downloads\P2P FT\C#\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\Aakash\Downloads\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\Aakash\Downloads\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\Aakash\Downloads\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\Aakash\Documents\Visual Studio 2013\Projects\P2P FT\C#\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\Aakash\Documents\Visual Studio 2013\Projects\P2P FT\C#\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\Aakash\Documents\Visual Studio 2013\Projects\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\Aakash\Documents\Visual Studio 2013\Projects\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\Aakash\Documents\Visual Studio 2013\Projects\P2P FT\C#\Business_Layer\obj\Debug\Business_Layer.pdb
